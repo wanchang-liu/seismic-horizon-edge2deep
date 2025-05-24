@@ -1,7 +1,7 @@
 # Seismic Horizon Tracking
 This repository contains code for seismic horizon tracking, which is divided into two main parts:
 
-Overall Horizon Extraction: Implemented using an improved Canny edge detection algorithm.
+Overall Horizon Extraction: Implemented using edge detection algorithm.
 
 Target Horizon Tracking: Implemented using an improved UNet architecture.
 
