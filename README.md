@@ -7,7 +7,7 @@ Target Horizon Tracking: Implemented using an improved UNet architecture.
 
 The code is fully open-source, and all functionality is commented in the code.py file. For detailed explanations of the specific functions, please refer to the comments in the code itself.
 
-Dataset
+# Dataset
 The original seismic dataset used in this study is publicly available from the Queensland Government at the following link:
 
 Queensland Seismic Data
@@ -18,10 +18,10 @@ Note: The horizon labels used for training the model were manually annotated and
 
 DGBES Seismic Datasets
 
-Model Training
+# Model Training
 The model training involves using the seismic data, where the labels (horizon annotations) are manually generated. Please refer to the relevant sections in the code for setup and instructions on model training.
 
-License
+# License
 This repository is open-source under the MIT License. Please refer to the LICENSE file for more details.
 
 Feel free to modify any part as needed!
